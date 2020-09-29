@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">FirstAndroidApp</string>
     <string name="my_text">Hello, Karmanchik!</string>
+    <string name="app_logo">Умный конвертер</string>
+    <string name="hint_textField">Вводите число миль здесь…</string>
+    <string name="name">Name</string>
+    <string name="buttonText">КОНВЕРТИРОВАТЬ</string>
 </resources>
